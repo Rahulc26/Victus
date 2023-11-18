@@ -43,13 +43,13 @@ test:
     - codecarbon.viz
 
 about:
-  home: https://github.com/mlco2/codecarbon
+  home: https://github.com/Rahulc26/codecarbon
   license: MIT
   summary: 'Emissions Tracker'
   description: |
     Emissions Tracker is a Python package for tracking the carbon emissions produced by various kinds of computer programs, from straightforward algorithms to deep neural networks.
 
     By taking into account your computing infrastructure, location, usage and running time, Emissions Tracker can provide an estimate of how much CO2 you produced, and give you some comparisons with common modes of transporation to give you an order of magnitude.
-  dev_url: https://github.com/mlco2/codecarbon
+  dev_url: https://github.com/Rahulc26/codecarbon
   doc_url: https://pypi.python.org/TO-BE-DEFINED/codecarbon
-  doc_source_url: https://github.com/mlco2/codecarbon/blob/master/README.md
+  doc_source_url: https://github.com/Rahulc26/codecarbon/blob/master/README.md

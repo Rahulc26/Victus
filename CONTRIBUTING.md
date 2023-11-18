@@ -10,13 +10,13 @@
 
 ## <a name="questions"></a> Have a Question?
 
-Please see the [FAQ](https://mlco2.github.io/codecarbon/faq.html) for questions.
+Please see the [FAQ](https://Rahulc26.github.io/codecarbon/faq.html) for questions.
 
 
 ## <a name="bugs"></a> Found a Bug?
 
 
-If you've identified a bug in `codecarbon`, please [submit an issue](#issue) to the GitHub repo: [mlco2/codecarbon](https://github.com/mlco2/codecarbon/issues/new).  Please also feel free to submit a PR with a fix for the bug!
+If you've identified a bug in `codecarbon`, please [submit an issue](#issue) to the GitHub repo: [Rahulc26/codecarbon](https://github.com/Rahulc26/codecarbon/issues/new).  Please also feel free to submit a PR with a fix for the bug!
 
 
 ## <a name="features"></a> Have a Feature Request?
@@ -32,7 +32,7 @@ Feel free to describe your request by [submitting an issue](#issue) documenting 
 ### <a name="issue"></a> Create an issue
 
 Before submitting a new issue, please search the issues to make sure there isn't a similar issue already.
-New issues can be created with in the [GitHub repo](https://github.com/mlco2/codecarbon/issues/new).
+New issues can be created with in the [GitHub repo](https://github.com/Rahulc26/codecarbon/issues/new).
 
 
 ### Installation
@@ -49,7 +49,7 @@ conda activate codecarbon
 Install from sources in development mode:
 
 ```bash
-git clone https://github.com/mlco2/codecarbon
+git clone https://github.com/Rahulc26/codecarbon
 cd codecarbon
 pip install -e .
 ```
@@ -104,7 +104,7 @@ To test CodeCarbon, it is useful to stress your computer to make it use its full
 
 To add a new feature to codecarbon, apply the following workflow:
 - Master branch is protected
-- To contribute to an already [prioritized](https://github.com/orgs/mlco2/projects/1) feature, you can create a branch from master and open a draft PR
+- To contribute to an already [prioritized](https://github.com/orgs/Rahulc26/projects/1) feature, you can create a branch from master and open a draft PR
 - Documenting the intent & the limits of a contribution in a dedicated issue or in the pull request helps the review
 - Once automated tests pass, the PR is reviewed and merged by the repository maintainers
 
@@ -248,13 +248,13 @@ to regenerate the html files.
 ### Release process
 
 - Merge all PRs.
-- Create a PR bumping the version in https://github.com/mlco2/codecarbon/blob/master/setup.py, https://github.com/mlco2/codecarbon/blob/master/codecarbon/_version.py and https://github.com/mlco2/codecarbon/blob/master/.conda/meta.yaml.
+- Create a PR bumping the version in https://github.com/Rahulc26/codecarbon/blob/master/setup.py, https://github.com/Rahulc26/codecarbon/blob/master/codecarbon/_version.py and https://github.com/Rahulc26/codecarbon/blob/master/.conda/meta.yaml.
 - Run `python3 .github/check_version.py` to check version consistancy.
 - [Build Documentation](#documentation) if needed.
 - Merge the PR.
 - Wait for the Github Action `ReleaseDrafter` to finish running on the merge commit.
-- [Edit the Draft release](https://github.com/mlco2/codecarbon/releases/) on Github and give it a tag, `v1.0.0` for the version 1.0.0. Github will automatically create a Git tag for it. Complete help [here](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository).
-- A [Github Action](https://github.com/mlco2/codecarbon/actions) _Upload Python Package_ will be run automaticaly to upload the package.
+- [Edit the Draft release](https://github.com/Rahulc26/codecarbon/releases/) on Github and give it a tag, `v1.0.0` for the version 1.0.0. Github will automatically create a Git tag for it. Complete help [here](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository).
+- A [Github Action](https://github.com/Rahulc26/codecarbon/actions) _Upload Python Package_ will be run automaticaly to upload the package.
 - For conda, we now have a [feedstock](https://github.com/conda-forge/codecarbon-feedstock/pulls) to publish to Conda-Forge channel.
 
 
