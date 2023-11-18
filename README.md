@@ -103,7 +103,7 @@ You can now visualize your experiment emissions on the [dashboard](https://dashb
 > - cloud mode
 > - comet integration...
 >
-> Please explore the [**Documentation**](https://Rahulc26.github.io/codecarbon) to learn about it
+> Please explore the [**Documentation**](https://Rahulc26.github.io/Victus) to learn about it
 > If ever what your are looking for is not yet implemented, let us know through the *issues* and even better become one of our 🦸🏼‍♀️🦸🏼‍♂️ contributors! more info 👇🏼
 
 
