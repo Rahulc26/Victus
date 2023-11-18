@@ -348,8 +348,8 @@ def serve_layout():
                 [
                     html.Span("Powered by "),
                     html.A(
-                        "Clever Cloud",
-                        href="https://www.clever-cloud.com/",
+                        "Victus",
+                        href="https://github.com/Rahulc26/Victus.git",
                         target="_blank",
                     ),
                     html.Span("."),
