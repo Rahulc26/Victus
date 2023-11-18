@@ -119,4 +119,4 @@ Check out our [contribution guidelines :arrow_upper_right:](https://github.com/R
 
 # Contact 📝
 
-Maintainers are [@Ankit00013](https://github.com/Ankit00013) [@Rahulc26](https://github.com/Rahulc26) and [@Prateekssu](https://github.com/Prateekssu) [@Surjyassu](https://github.com/Surjyassu).
+Maintainers are [@Ankit00013](https://github.com/Ankit00013) , [@Rahulc26](https://github.com/Rahulc26) , [@Prateekssu](https://github.com/Prateekssu) and [@Surjyassu](https://github.com/Surjyassu).
