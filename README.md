@@ -107,16 +107,6 @@ You can now visualize your experiment emissions on the [dashboard](https://dashb
 > If ever what your are looking for is not yet implemented, let us know through the *issues* and even better become one of our 🦸🏼‍♀️🦸🏼‍♂️ contributors! more info 👇🏼
 
 
-# Contributing 🤝
-
-We are hoping that the open-source community will help us edit the code and make it better!
-
-You are welcome to open issues, even suggest solutions and better still contribute the fix/improvement! We can guide you if you're not sure where to start but want to help us out 🥇
-
-In order to contribute a change to our code base, please submit a pull request (PR) via GitHub and someone from our team will go over it and accept it.
-
-Check out our [contribution guidelines :arrow_upper_right:](https://github.com/Rahulc26/codecarbon/blob/master/CONTRIBUTING.md)
-
 # Contact 📝
 
 Maintainers are [@Ankit00013](https://github.com/Ankit00013) , [@Rahulc26](https://github.com/Rahulc26) , [@Prateekssu](https://github.com/Prateekssu) and [@Surjyassu](https://github.com/Surjyassu).
