@@ -346,12 +346,6 @@ def serve_layout():
             dcc.Graph(id="my_emission_map", figure={}, config=config),
             html.Div(
                 [
-                    html.Span("Powered by "),
-                    html.A(
-                        "Victus",
-                        href="https://github.com/Rahulc26/Victus.git",
-                        target="_blank",
-                    ),
                     html.Span("."),
                 ],
                 className="sponsor",
