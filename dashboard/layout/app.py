@@ -347,6 +347,12 @@ def serve_layout():
             html.Div(
                 [
                     html.Span("."),
+                     html.Span("Powered by "),
+                    html.A(
+                        "Victus",
+                        href="https://github.com/Rahulc26/Victus.git",
+                        target="_blank",
+                    ),
                 ],
                 className="sponsor",
             ),
